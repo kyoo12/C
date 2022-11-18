@@ -1,5 +1,7 @@
 #include <stdio.h>
-
+/*
+SF comments are marked SF
+*/
 int main()
 {
     int i,j,n,t;
